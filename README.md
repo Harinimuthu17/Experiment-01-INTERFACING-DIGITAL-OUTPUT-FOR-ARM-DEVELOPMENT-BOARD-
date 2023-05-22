@@ -79,13 +79,16 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
+
+
 
 
 
 ## Output  :
  
- 
- 
+
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
