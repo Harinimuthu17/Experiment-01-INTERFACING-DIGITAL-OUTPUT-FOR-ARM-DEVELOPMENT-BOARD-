@@ -188,7 +188,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![led is on](https://github.com/Harinimuthu17/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/130278614/41a498f4-093e-4811-b0fd-aa0fd12d96b6)
+ ![on 1](https://github.com/Harinimuthu17/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/130278614/d14c15cf-46b8-42ea-bcb0-5a4165f99f03)
+![off 1](https://github.com/Harinimuthu17/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/130278614/f1f0fe30-88b0-48b0-b0d9-d3c54ef1e320)
+
 
 
 
