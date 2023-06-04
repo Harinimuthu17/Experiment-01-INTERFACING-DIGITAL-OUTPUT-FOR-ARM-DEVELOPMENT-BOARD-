@@ -192,6 +192,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![image](https://github.com/Harinimuthu17/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/130278614/44dc9a42-0264-488c-9231-2af04a93d588)
 
+![image](https://github.com/Harinimuthu17/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/130278614/5a56fa9e-23fe-4c70-8c03-40c06f2dcb50)
 
  
 ## Result :
